@@ -1,0 +1,10 @@
+opencv-python==3.2.0.6
+h5py==2.6.0
+matplotlib
+numpy
+scipy
+tqdm==4.11.2
+scikit-learn
+pillow==4.0.0
+ipykernel==4.6.1
+tensorflow
